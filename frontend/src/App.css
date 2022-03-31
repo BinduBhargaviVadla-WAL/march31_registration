@@ -1,0 +1,57 @@
+input {
+  padding: 15px;
+  width: 300px;
+  border: none;
+  border-bottom: 2px solid #abab;
+  margin: 20px;
+}
+textarea {
+  padding: 15px;
+  width: 300px;
+  border: none;
+  border: 1px solid #ddd;
+  margin: 10px;
+}
+button {
+  border: none;
+  padding: 15px;
+  margin: 10px;
+  background-color: darkcyan;
+  color: antiquewhite;
+  border-radius: 7px;
+  width: 150px;
+  margin: auto;
+  margin: 20px;
+}
+.check-btn {
+  background-color: rgb(255, 174, 0);
+  color: black;
+}
+form {
+  width: 600px;
+  margin: auto;
+  box-shadow: 10px 10px 12px 6px rgba(7, 7, 7, 0.541);
+  background-color: white;
+  padding: 10px;
+}
+h1 {
+  font-variant: small-caps;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 45px;
+}
+label {
+  padding: 15px;
+  margin: 15px;
+}
+.date-input {
+  width: 140px;
+}
+.check-msg {
+  color: red;
+  font-variant: small-caps;
+  text-align: center;
+  font-weight: 400;
+  margin: 30px 0;
+}
